@@ -2,8 +2,9 @@
 
 ## Descripción del sistema y de las variables estudiadas
 
-	Se diseñó un experimento con el fin de estudiar un posible rol del gen codificante para el neuropéotido ITG-like en el insecto triatomino Rhodnius prolixus. Para ello, se utilizó la técnica de RNA de interferencia para tratar hembras de la especie y se comprobó que la expresión del gen cayó significativamente en los insectos “ITG” respecto a los insectos control (“Blac”), interferidos para el gen inespecífico B-lactamasa (para más detalles del experimento ver https://doi.org/10.35537/10915/89926). Los insectos fueron mantenidos en condiciones de cría idénticas, individualizados mediante marcación con pintura acrílica no tóxica.
-	Con los dos grupos de insectos interferidos se realizó un ensayo de alimentación y análisis de oviposición y eclosión para evaluar el papel del gen ITG-like en estos procesos fisiológicos. Los insectos utilizados para el ensayo fueron mantenidos en condiciones de cría durante 75 días posteriores al experimento. Durante ese tiempo se registró el número de huevos ovipuestos por cada hembra. El índice de fecundidad (IF) se calculó mediante la fórmula (Ruegg & Davey 1979): 
+Se diseñó un experimento con el fin de estudiar un posible rol del gen codificante para el neuropéotido ITG-like en el insecto triatomino Rhodnius prolixus. Para ello, se utilizó la técnica de RNA de interferencia para tratar hembras de la especie y se comprobó que la expresión del gen cayó significativamente en los insectos “ITG” respecto a los insectos control (“Blac”), interferidos para el gen inespecífico B-lactamasa. Los insectos fueron mantenidos en condiciones de cría idénticas, individualizados mediante marcación con pintura acrílica no tóxica.
+
+Con los dos grupos de insectos interferidos se realizó un ensayo de alimentación y análisis de oviposición y eclosión para evaluar el papel del gen ITG-like en estos procesos fisiológicos. Los insectos utilizados para el ensayo fueron mantenidos en condiciones de cría durante 75 días posteriores al experimento. Durante ese tiempo se registró el número de huevos ovipuestos por cada hembra. El índice de fecundidad (IF) se calculó mediante la fórmula (Ruegg & Davey 1979): 
 
 > IF= número de huevos ÷ (peso de la hembra en ayunas (mg) × peso de la sangre ingerida (mg) × 1000)
 
