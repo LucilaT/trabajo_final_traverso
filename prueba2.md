@@ -7,21 +7,22 @@ Con los dos grupos de insectos interferidos se realizó un ensayo de alimentaci�
 
 > IF= número de huevos ÷ (peso de la hembra en ayunas (mg) × peso de la sangre ingerida (mg) × 1000)
 
-El peso de la sangre ingerida se estimó pesando a la hembra antes e inmediatamente después de la alimentación. Asimismo, se registró el número de insectos eclosionados a partir de los huevos opuestos por cada hembra y se calculó el porcentaje de eclosión.
+El peso de la sangre ingerida se estimó pesando a la hembra antes e inmediatamente después de la alimentación. Los individuos del grupo control se denominan con el prefijo “Blac” y los del grupo tratado con el prefijo “ITG”.
+
 
 |Insecto |Peso sin alimentar |Peso alimentada |Peso de la sangre ingerida |Huevos puestos |Índice de fecundidad (IF) |
 |--------|------------------ |--------------- |-------------------------- |-------------- |------------------------- |
-blac_1 | 0,093 | 0,238 | 0,145 | 47,000 | 3,483 |
-blac_2 | 0,076 | 0,220 | 0,144 | 22,000 | 2,017 |
-blac_3 | 0,091 | 0,201 | 0,109 | 43,000 | 4,310 |
-blac_4 | 0,107 | 0,261 | 0,154 | 55,000 | 3,342 |
-itg_1 | 0,090 | 0,228 | 0,138 | 30,000 | 2,408 |
-itg_2 | 0,090 | 0,274 | 0,184 | 37,000 | 2,237 |
-itg_3 | 0,097 | 0,245 | 0,148 | 36,000 | 2,503 |
-itg_4 | 0,078 | 0,214 | 0,136 | 25,000 | 2,362 |
-itg_5 | 0,097 | 0,276 | 0,179 | 21,000 | 1,211 |
+blac | 0,093 | 0,238 | 0,145 | 47,000 | 3,483 |
+blac | 0,076 | 0,220 | 0,144 | 22,000 | 2,017 |
+blac | 0,091 | 0,201 | 0,109 | 43,000 | 4,310 |
+blac | 0,107 | 0,261 | 0,154 | 55,000 | 3,342 |
+itg | 0,090 | 0,228 | 0,138 | 30,000 | 2,408 |
+itg | 0,090 | 0,274 | 0,184 | 37,000 | 2,237 |
+itg | 0,097 | 0,245 | 0,148 | 36,000 | 2,503 |
+itg | 0,078 | 0,214 | 0,136 | 25,000 | 2,362 |
+itg | 0,097 | 0,276 | 0,179 | 21,000 | 1,211 |
 
-Donde los individuos del grupo control se denominan con el prefijo “Blac” y los del grupo tratado con el prefijo “ITG”.
+
 
 ## Representación gráfica de las variables estudiadas
 
@@ -172,9 +173,13 @@ En la siguiente tabla se muestran los Intervalos de Confianza (95%) estimados en
 Con el fin de determinar si la cantidad de individuos que forman parte del ensayo son suficientes para abordar el análisis de las variables de interés, se realizó una determinación del tamaño de la muestra utilizando la función _TTestIndPower_ de la librería _statsmodels.stats.power_.
               
 El tamaño muestral necesario para Peso sin alimentar es: 751
+
 El tamaño muestral necesario para Peso sangre ingerida es: 21
+
 El tamaño muestral necesario para Huevos puestos es: 15
+
 El tamaño muestral necesario para Índice de fecundidad es: 751
+
 
 ## Ensayos de hipótesis
 
@@ -201,6 +206,7 @@ En este caso, se compara para cada variable el grupo control y el interferido. E
 Las varianzas son homogéneas en todos los casos (p > 0.05), por lo que se acepta la hipótesis nula.
 
 ***Normalidad de los datos***
+
 La normalidad se chequea mediante el test de Shapiro-Wilk, planteando las siguientes hipótesis:
 
 H0: La variable se distribuye normalmente
