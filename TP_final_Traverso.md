@@ -5,7 +5,9 @@
 Se diseñó un experimento con el fin de estudiar un posible rol del gen codificante para el neuropéotido ITG-like en el insecto triatomino _Rhodnius prolixus_. Para ello, se utilizó la técnica de RNA de interferencia para tratar hembras de la especie y se comprobó que la expresión del gen cayó significativamente en los insectos “itg” respecto a los insectos control (“blac”), interferidos para el gen inespecífico B-lactamasa. Los insectos fueron mantenidos en condiciones de cría idénticas, individualizados mediante marcación con pintura acrílica no tóxica.
 Con los dos grupos de insectos interferidos se realizó un ensayo de alimentación y análisis de oviposición y eclosión para evaluar el papel del gen ITG-like en estos procesos fisiológicos. Los insectos utilizados para el ensayo fueron mantenidos en condiciones de cría durante 75 días posteriores al experimento. Durante ese tiempo se registró el número de huevos ovipuestos por cada hembra. El índice de fecundidad (IF) se calculó mediante la fórmula (Ruegg & Davey 1979, doi: 10.1080/01651269.1979.10553294):
 
+
 > IF= número de huevos ÷ (peso de la hembra en ayunas (mg) × peso de la sangre ingerida (mg) × 1000)
+
 
 El peso de la sangre ingerida se estimó pesando a la hembra antes e inmediatamente después de la alimentación. Los individuos del grupo control se denominan con el prefijo “blac” y los del grupo tratado con el prefijo “itg”.
 
@@ -29,7 +31,9 @@ A continuación, se muestran los histogramas de las variables estudiadas.
      width="50%" 
      height=auto />
 
+
 Dado que el número de individuos en cada grupo es pequeño, no queda graficada de forma clara la distribución de las variables estudiadas.
+
 
 ## Análisis de las medidas características de cada distribución
 
@@ -38,6 +42,7 @@ Dado que las variables medidas son cuantitativas, pueden calcularse una serie de
 ### Medidas de centralización
 
 #### Media, mediana y moda
+
 
 En las siguientes tablas se muestran la media, mediana y moda para cada grupo y variable. Para hacer más preciso el cálculo de la moda, se decide redondear los números a dos decimales, a excepción del índice de fecundidad en donde se decide eliminar los decimales para lograr un dato aproximado. En el caso de que no haya una única moda, se muestran todos los valores separados por “;”:
 
@@ -49,7 +54,9 @@ En las siguientes tablas se muestran la media, mediana y moda para cada grupo y 
 |Mediana |0.0912 |0.092 |0.09|
 |Moda |0.09 |0.09 |0.09;0.10|
 
+
 > La media del peso de los insectos utilizados para el estudio es de 0.09 mg, mientras que no parece haber una diferencia importante entre las medias de los insectos separados por grupo experimental. Si bien la media nos indica el valor central de los datos, la observación de una mediana similar nos indica ausencia de valores extremos. La moda es consistente con este resultado, ya que los valores más abundantes son 0.09 a 0.1 mg.
+
 
 ***Sangre ingerida***
 
@@ -59,7 +66,9 @@ En las siguientes tablas se muestran la media, mediana y moda para cada grupo y 
 |Mediana |0.1454 |0.14465 |0.1483 |
 |Moda |0.14;0.15 |0.15 |0.14;0.18 |
 
+
 > La media del peso del volumen ingerido por ambos grupos es 0.14 mg. Al igual que para la variable anterior, la mediana indica que no hay influencia de valores extremos en ese número. Al observar las medias y modas de los grupos por separados, podría observarse una tendencia de los insectos interferidos a ingerir más volumen de sangre.
+
 
 ***Cantidad de huevos***
 
@@ -69,7 +78,9 @@ En las siguientes tablas se muestran la media, mediana y moda para cada grupo y 
 |Mediana |36.0 |45.0 |30.0 |
 |Moda |21;22;25;30;36;37;43;47;55 |22;43;47;55 |21;25;30;36;37 |
 
+
 > En promedio, los insectos en su conjunto ponen 35,1 huevos. Sin embargo, al evaluar las medias de cada grupo por separado, se observa que los insectos del grupo control tienen una media más alta que este número, mientras que los insectos interferidos muestran un valor menor para esta característica. La mediana es similar a la media en el caso de todos los insectos en su conjunto y en el caso del grupo interferido. En el caso de los insectos control, la mediana es mayor, lo que podría indicar la existencia de valores en el extremo inferior.
+
 
 ***Índice de fecundidad***
 
@@ -79,18 +90,23 @@ En las siguientes tablas se muestran la media, mediana y moda para cada grupo y 
 |Mediana |2.408478 |3.412443 |2.361922 |
 |Moda |2 |3 |2 |
 
+
 > Al igual que para el número de huevos puestos, la media del índice de fecundidad calculado para los insectos interferidos es menor que la calculada para los insectos en su conjunto, mientras que la media de los insectos control es mayor. La mediana es similar a la media en todos los casos.
+
 
 #### Cálculo de percentiles
 No se realiza el cálculo de percentiles porque se cuenta con un bajo número de individuos en el experimento y el resultado no sería informativo.
+
 
 ### Medidas de dispersión
 
 Las medidas de dispersión se calculan para analizar la variabilidad de los datos, lo que nos ayuda a evaluar la representatividad de las medidas de centralización.
 
+
 #### Rango, recorrido intercuartilo (RI), desviación estándar (SD) y varianza
 
 En las siguientes tablas se muestran el rango, recorrido intercuartilo (RI), desviación estándar (SD) y varianza para cada grupo y variable:
+
 
 ***Peso sin alimentar***
 
@@ -101,7 +117,9 @@ En las siguientes tablas se muestran el rango, recorrido intercuartilo (RI), des
 |SD |0.0095 |0.0126 |0.0077 |
 |Varianza |0.0001 |0.0002 |0.0001 |
 
+
 > En el caso de esta variable, en consistencia con lo observado para las medidas de centralización no se observa una gran influencia de valores extremos: el rango y el recorrido intercuartilo presentan un valor bajo en todos los casos. La desviación estándar es más alta en los insectos control; dado que en este caso no hay una gran influencia de valores extremos es un estadístico válido para evaluar dispersión. La varianza nos indica que en todos los casos existe muy poca variabilidad de los datos con respecto a la media calculada.
+
 
 ***Sangre ingerida***
 
@@ -112,7 +130,9 @@ En las siguientes tablas se muestran el rango, recorrido intercuartilo (RI), des
 |SD |0.0226 |0.0198 |0.0230 |
 |Varianza |0.0005 |0.0004 |0.0005 |
 
+
 > En el caso de esta variable, se observa una dispersión un poco mayor que para el caso anterior, tal como puede observarse con el rango y la desviación estándar calculados.
+
 
 ***Huevos puestos***
 
@@ -123,7 +143,9 @@ En las siguientes tablas se muestran el rango, recorrido intercuartilo (RI), des
 |SD |11.7414 |14.0801 |6.9065 |
 |Varianza |137.8611 |198.2500 |47.7000 |
 
+
 > En el caso de huevos puestos, se observa una menor dispersión de los datos del grupo interferido en todas las medidas calculadas.
+
 
 ***Indice de fecundidad***
 
@@ -134,7 +156,9 @@ En las siguientes tablas se muestran el rango, recorrido intercuartilo (RI), des
 |SD |0.9173 |0.9488 |0.5303 |
 |Varianza |0.8415 |0.9002 |0.2812 |
 
+
 > En el caso del índice de fecundidad, similar a lo observado para la variable analizada anteriormente, se observa una menor dispersión de los datos del grupo interferido en todas las medidas calculadas.
+
 
 #### Coeficientes de variación, asimetría y curtosis
 
@@ -149,9 +173,12 @@ Para analizar la dispersión de manera comparativa (independientemente de la uni
 |Huevos puestos |0.3344 |0.3372 |0.2318 |
 |Índice de fecundidad |0.3458 |0.2886 |0.2473 |
 
+
 > Se observa una manor variación en el caso del grupo interferido, especialmente para Huevos puestos e Índice de fecundidad.
 
+
 Para estudiar la simetría de los datos y su concentración con respecto a la medida central, se complementan los análisis anteriores con el calculo de coeficientes de asimetría y curtosis.
+
 
 ***Coeficientes de asimetría para cada grupo y variable***
 
@@ -162,7 +189,9 @@ Para estudiar la simetría de los datos y su concentración con respecto a la me
 |Huevos puestos |0.3788 |-1.2493 |-0.2283 |
 |Índice de fecundidad |0.4345 |-0.7636 |-2.0583 |
 
+
 > En el caso de peso sin alimentar, se observa una asimetría a la izquierda (es decir, hacia los valores más bajos de la distribución), especialmente para el grupo interferido. En el caso de la sangre ingerida, los valores de asimetría difieren entre los grupos: se observa una asimetria hacia la derecha para ambos grupos y para el grupo interferido, mientras que ocurre lo contrario para el grupo control. En el caso de huevos puestos e índice de fecundidad, la asimentría es hacia la izquierda para ambos grupos experimentales.
+
 
 ***Coeficientes de curtosis para cada grupo y variable***
 
@@ -173,7 +202,9 @@ Para estudiar la simetría de los datos y su concentración con respecto a la me
 |Huevos puestos |-0.8976 |2.0826 |-2.1256 |
 |Índice de fecundidad |0.2569 |1.7243 |4.3544 |
 
+
 > En el caso de peso sin alimentar, los coeficientes indican una distribución leptocúrtica (mayoría de datos alrededor del valor central). En el caso de la sangre ingerida y huevos puestos, se observa distribución leptocúrtica para el grupo control, mientras que el grupo interferido presenta distribución platicúrtica. La variable índice de fecundidad presenta distribución leptocúrtica en ambos grupos. Sin embargo, tal como se observó en los histogramas graficados, el número de individuos analizado es bajo lo que compromete la utilidad de estos coeficientes.
+
 
 ## Estimación de intervalos de confianza
 
@@ -186,9 +217,12 @@ Para realizar la estimación de los intervalos de confianza se utilizará la dis
 |Huevos puestos |[26.09, 44.14] |[19.35, 64.15] |[21.22, 38.38] |
 |Índice de fecundidad |[1.95, 3.36] |[1.78, 4.8] |[1.49, 2.8] |
 
+
 > Estos datos nos muestran que existe un 95% de probabilidad de que los intervalos calculados contengan el valor real de esa variable en la población.
 
+
 ## Determinación del tamaño de la muestra
+
 
 Con el fin de determinar si la cantidad de individuos que forman parte del ensayo son suficientes para abordar el análisis de las variables de interés, se realizó una determinación del tamaño de la muestra utilizando la función _TTestIndPower_ de la librería _statsmodels.stats.power_.
               
@@ -200,7 +234,9 @@ El tamaño muestral necesario para Huevos puestos es: 15
 
 El tamaño muestral necesario para Índice de fecundidad es: 751
 
+
 > Con los resultados puede concluirse que el número de individuos incluidos en el diseño experimental es muy insuficiente. Esto indica que la ausencia de diferencias significativas en las comparaciones de medias que siguen a continuación puede deberse a esto.
+
 
 ## Ensayos de hipótesis
 
@@ -208,9 +244,11 @@ El tamaño muestral necesario para Índice de fecundidad es: 751
 
 Para poder testear la hipótesis de si que el gen ITG-like tiene un rol en la reproducción de la especie estudiada, se planea comparar las medias de las variables analizadas utilizando la prueba de T de student. Para aplicar esta prueba, deben comprobarse una serie de supuestos que se detallan y evalúan a continuación.
 
+
 ***Tipo de datos, independencia de las muestras y número de individuos y grupos analizados***
 
 Se trata de un set de datos cuantitativos, con un tamaño muestral < 30 compuesto por dos grupos de muestras independientes. Estas características son apropiadas para un análisis de comparación de medias por T de student.
+
 
 ***Homocedasticidad***
 
@@ -226,6 +264,7 @@ En este caso, se compara para cada variable el grupo control y el interferido. E
 |[0.416, 0.539] |[0.356, 0.569] |[0.678, 0.437] |[0.701, 0.429] |
 
 > Las varianzas son homogéneas en todos los casos (p > 0.05) por lo que se acepta la hipótesis nula, cumpliéndose este supuesto en todos los casos.
+
 
 ***Normalidad de los datos***
 
@@ -246,6 +285,7 @@ Este test se aplica tanto para los grupos por separado, como para los grupos en 
 
 > A excepción del índice de fecundidad, las variables se distribuyen normalmente (p > 0.05), por lo que se acepta la hipótesis nula. En el caso del IF la hipótesis nula se rechaza con un p = 0.015. Esto puede deberse a que la muestra es muy pequeña: como ya se determinó, el tamaño muestral necesario para analizar esta variable es 751. Para este caso, se realizará una prueba de T y también un test no paramétrico para evaluar los resultados.
 
+
 #### Prueba de T
 
 Para cada variable, se plantean las siguientes hipótesis:
@@ -261,6 +301,7 @@ Los resultados obtenidos para la prueba de T  para cada variable (estadísitico 
 
 > Como puede observarse, no hay diferencias significativas entre el tamaño de los individuos que forman parte de cada grupo, ni en la cantidad de sangre ingerida por los mismos. Tampoco se observan diferencias en la oviposición. En cuanto al índice de fecundidad, se observa una diferencia significativa con un valor p =0.054. Sin embargo, para esta variable no se observó una distribución normal. Si bien es probable que esto se deba a que se está trabajando con un bajo número de individuos, no puede tomarse este resultado como válido. Se realiza a continuación un análisis no paramétrico.
 
+
 ### Análisis no paramétrico
 
 Se elige la prueba U de Mann-Whitney, dado que se trata de datos continuos pertenecientes a dos grupos de muestras independientes con varianzas homogéneas.
@@ -271,6 +312,7 @@ Se elige la prueba U de Mann-Whitney, dado que se trata de datos continuos perte
 > Los resultados obtenidos para este análisis indican que no se puede rechazar la hipótesis nula (p = 0.19, estadístico = 16). Por lo tanto, la distribución de los grupos analizados es la misma.
 
 > Sería deseable aumentar el número de individuos analizados para evaluar si se alcanza la normalidad de los datos y con ellos repetir la prueba de T para tener un resultado confiable sobre la diferencia entre las medias de los grupos.
+
 
 ### Análisis de dependencia de variables categóricas
 
@@ -290,6 +332,7 @@ Para llevar a cabo este análisis se decidió aplicar el test de Fisher debido a
 > El test de Fisher para la tabla de contingencia analizada arrojó un estadístico de 0 con un p-value de 0.047. Por lo tanto, según este test podemos rechazar la hipótesis nula: el índice de fecundidad depende del tratamiento recibido, con una probabilidad de encontrar este resultado al azar de 4,7%.
 
 > Es importante tener en cuenta que este resultado se obtiene a partir de una clasificación (fecundidad alta/baja) establecida con un punto de corte arbitrario. Asimismo, el número de individuos es muy bajo. Sería deseable aumentar el número de individuos para evaluar la validez del punto de corte establecido.
+
 
 ### Análisis de correlación
 
@@ -313,4 +356,9 @@ Con el fin de evaluar la relación lineal entre el peso sin alimentar y los huev
 El análisis de correlación se repite utilizando también sólo el grupo control, para descartar que la falta de correlación observada se deba a la influencia del tratamiento que reciben los individuos del grupo tratado. Este análisis tampoco arrojó correlación en ningún caso (con un estadístico de 0.231 y un valor p de 0.768 para el caso de _peso sin alimentar_ y _sangre ingerida_ y un estadístico de  0.124 y un valor p de 0.875 para el caso de _huevos puestos_ y _sangre ingerida_). 
 
 > El Índice de Fecundidad utilizado se compone de estas tres variables y es aceptado como un indicador válido de la fecundidad de estos insectos. Sin embargo, con los datos analizados no se halla correlación entre las variables. Considerando que se está trabajando con un número muy bajo de individuos, es probable que este hecho explique la falta de correlación observada.
+
+
+## Conclusiones generales
+
+Los datos analizados muestran una tendencia de los insectos interferidos a tener menor fecundidad que los insectos control, lo que indicaría un rol del gen ITG-like en alguno de los procesos relacionados a la fecundidad en la especie estudiada. Para una confirmación estadística válida, sería necesario aumentar el número de individuos incluídos en el experimento. Un número mayor de individuos sería útil también para analizar si para el caso de este diseño experimental es necesario plantear cambios en la forma de calcular el índice de fecundidad.
 
