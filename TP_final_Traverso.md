@@ -1,4 +1,4 @@
-# Trabajo Final - Manejo de Datos en Biología Computacional - Herramientas de Estadística
+# Trabajo Final: Manejo de Datos en Biología Computacional - Herramientas de Estadística
 
 ## Descripción del sistema y de las variables estudiadas
 
@@ -10,6 +10,8 @@ Con los dos grupos de insectos interferidos se realizó un ensayo de alimentaci�
 
 
 El peso de la sangre ingerida se estimó pesando a la hembra antes e inmediatamente después de la alimentación. Los individuos del grupo control se denominan con el prefijo “blac” y los del grupo tratado con el prefijo “itg”.
+
+
 
 ## Representación gráfica de las variables estudiadas
 
@@ -37,7 +39,7 @@ Dado que el número de individuos en cada grupo es pequeño, no queda graficada 
 
 ## Análisis de las medidas características de cada distribución
 
-Dado que las variables medidas son cuantitativas, pueden calcularse una serie de medidas de centralización y dispersión con el fin de obtener una caracterización rápida de la distribución de los datos.
+Dado que las variables medidas son cuantitativas, pueden calcularse una serie de medidas de centralización y dispersión con el fin de obtener una caracterización rápida de la distribución de los datos. Dado que el número de individuos incluidos en el experimento es bajo, la utilidad de estas medidas es limitada.
 
 ### Medidas de centralización
 
@@ -100,7 +102,7 @@ No se realiza el cálculo de percentiles porque se cuenta con un bajo número de
 
 ### Medidas de dispersión
 
-Las medidas de dispersión se calculan para analizar la variabilidad de los datos, lo que nos ayuda a evaluar la representatividad de las medidas de centralización.
+Las medidas de dispersión se calculan para analizar la variabilidad de los datos, lo que nos ayuda a evaluar la representatividad de las medidas de centralización. Tal como se aclaró anteriormente la utilidad de estas medidas es limitada debido al bajo número de individuos utilizados en el experimento.
 
 
 #### Rango, recorrido intercuartilo (RI), desviación estándar (SD) y varianza
@@ -177,7 +179,7 @@ Para analizar la dispersión de manera comparativa (independientemente de la uni
 > Se observa una manor variación en el caso del grupo interferido, especialmente para Huevos puestos e Índice de fecundidad.
 
 
-Para estudiar la simetría de los datos y su concentración con respecto a la medida central, se complementan los análisis anteriores con el calculo de coeficientes de asimetría y curtosis.
+Para estudiar la simetría de los datos y su concentración con respecto a la medida central, se complementan los análisis anteriores con el calculo de coeficientes de asimetría y curtosis. Sin embargo, tal como se observó en los histogramas graficados, el número de individuos analizado es bajo lo que compromete la utilidad de estos coeficientes.
 
 
 ***Coeficientes de asimetría para cada grupo y variable***
@@ -203,7 +205,7 @@ Para estudiar la simetría de los datos y su concentración con respecto a la me
 |Índice de fecundidad |0.2569 |1.7243 |4.3544 |
 
 
-> En el caso de peso sin alimentar, los coeficientes indican una distribución leptocúrtica (mayoría de datos alrededor del valor central). En el caso de la sangre ingerida y huevos puestos, se observa distribución leptocúrtica para el grupo control, mientras que el grupo interferido presenta distribución platicúrtica. La variable índice de fecundidad presenta distribución leptocúrtica en ambos grupos. Sin embargo, tal como se observó en los histogramas graficados, el número de individuos analizado es bajo lo que compromete la utilidad de estos coeficientes.
+> En el caso de peso sin alimentar, los coeficientes indican una distribución leptocúrtica (mayoría de datos alrededor del valor central). En el caso de la sangre ingerida y huevos puestos, se observa distribución leptocúrtica para el grupo control, mientras que el grupo interferido presenta distribución platicúrtica. La variable índice de fecundidad presenta distribución leptocúrtica en ambos grupos.
 
 
 ## Estimación de intervalos de confianza
