@@ -3,14 +3,14 @@
 ## Descripción del sistema y de las variables estudiadas
 
 Se diseñó un experimento con el fin de estudiar un posible rol del gen codificante para el neuropéotido ITG-like en el insecto triatomino _Rhodnius prolixus_. Para ello, se utilizó la técnica de RNA de interferencia para tratar hembras de la especie y se comprobó que la expresión del gen cayó significativamente en los insectos “itg” respecto a los insectos control (“blac”), interferidos para el gen inespecífico B-lactamasa. Los insectos fueron mantenidos en condiciones de cría idénticas, individualizados mediante marcación con pintura acrílica no tóxica.
-Con los dos grupos de insectos interferidos se realizó un ensayo de alimentación y análisis de oviposición y eclosión para evaluar el papel del gen ITG-like en estos procesos fisiológicos. Los insectos utilizados para el ensayo fueron mantenidos en condiciones de cría durante 75 días posteriores al experimento. Durante ese tiempo se registró el número de huevos ovipuestos por cada hembra. El índice de fecundidad (IF) se calculó mediante la fórmula (Ruegg & Davey 1979, doi: 10.1080/01651269.1979.10553294):
+
+Con los dos grupos de insectos interferidos se realizó un ensayo de alimentación y análisis de oviposición para evaluar el papel del gen ITG-like en estos procesos fisiológicos. Los insectos utilizados para el ensayo fueron mantenidos en condiciones de cría durante 75 días posteriores al experimento. Durante ese tiempo se registró el número de huevos ovipuestos por cada hembra. El índice de fecundidad (IF) se calculó mediante la fórmula (Ruegg & Davey 1979, doi: 10.1080/01651269.1979.10553294):
 
 
 > IF= número de huevos ÷ (peso de la hembra en ayunas (mg) × peso de la sangre ingerida (mg) × 1000)
 
 
 El peso de la sangre ingerida se estimó pesando a la hembra antes e inmediatamente después de la alimentación. Los individuos del grupo control se denominan con el prefijo “blac” y los del grupo tratado con el prefijo “itg”.
-
 
 
 ## Representación gráfica de las variables estudiadas
@@ -237,7 +237,7 @@ El tamaño muestral necesario para Huevos puestos es: 15
 El tamaño muestral necesario para Índice de fecundidad es: 751
 
 
-> Con los resultados puede concluirse que el número de individuos incluidos en el diseño experimental es muy insuficiente. Esto indica que la ausencia de diferencias significativas en las comparaciones de medias que siguen a continuación puede deberse a esto.
+> Con los resultados puede concluirse que el número de individuos incluidos en el diseño experimental es muy insuficiente. Si no se hallan diferencias significativas en las comparaciones de medias, los resultados no pueden tomarse como representativos de las poblaciones ya que podrían modificarse (es decir, podrían hallarse diferencias significativas) utilizando un número de individuos mayor.
 
 
 ## Ensayos de hipótesis
@@ -301,7 +301,9 @@ Los resultados obtenidos para la prueba de T  para cada variable (estadísitico 
 |--------------- |------------- |------------- |------------------ |
 |[0.191,0.853] |[-1.300, 0.234] |[1.681, 0.136] |[2.306, 0.054] |
 
-> Como puede observarse, no hay diferencias significativas entre el tamaño de los individuos que forman parte de cada grupo, ni en la cantidad de sangre ingerida por los mismos. Tampoco se observan diferencias en la oviposición. En cuanto al índice de fecundidad, se observa una diferencia significativa con un valor p =0.054. Sin embargo, para esta variable no se observó una distribución normal. Si bien es probable que esto se deba a que se está trabajando con un bajo número de individuos, no puede tomarse este resultado como válido. Se realiza a continuación un análisis no paramétrico.
+> Como puede observarse, no hay diferencias significativas entre el tamaño de los individuos que forman parte de cada grupo, ni en la cantidad de sangre ingerida por los mismos. Tampoco se observan diferencias en la oviposición. Sin embargo, como se mencionó anteriormente, es importante tener en cuenta que se está trabajando con un número inferior al tamaño muestral requerido para esta comparación, por lo que el resultado podría cambiar con el aumento de individuos. 
+
+> En cuanto al índice de fecundidad, se observa una diferencia significativa con un valor p =0.054. Sin embargo, para esta variable no se observó una distribución normal, lo cual limita la utilidad de la prueba de T aplicada. Si bien es probable que esto se deba a que se está trabajando con un bajo número de individuos, no puede tomarse este resultado como válido. Se realiza a continuación un análisis no paramétrico.
 
 
 ### Análisis no paramétrico
