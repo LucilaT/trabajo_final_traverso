@@ -312,5 +312,5 @@ Con el fin de evaluar la relación lineal entre el peso sin alimentar y los huev
 
 El análisis de correlación se repite utilizando también sólo el grupo control, para descartar que la falta de correlación observada se deba a la influencia del tratamiento que reciben los individuos del grupo tratado. Este análisis tampoco arrojó correlación en ningún caso (con un estadístico de 0.231 y un valor p de 0.768 para el caso de _peso sin alimentar_ y _sangre ingerida_ y un estadístico de  0.124 y un valor p de 0.875 para el caso de _huevos puestos_ y _sangre ingerida_). 
 
-> El Índice de Fecundidad utilizado se compone de estas tres variables y es aceptado como un indicador válido de la fecundidad de estos insectos. Sin embargo, con los datos analizados no se halla correlación entre las variables. Sin embargo, considerando que se está trabajando con un número muy bajo de individuos, es probable que este hecho explique la falta de correlación observada.
+> El Índice de Fecundidad utilizado se compone de estas tres variables y es aceptado como un indicador válido de la fecundidad de estos insectos. Sin embargo, con los datos analizados no se halla correlación entre las variables. Considerando que se está trabajando con un número muy bajo de individuos, es probable que este hecho explique la falta de correlación observada.
 
