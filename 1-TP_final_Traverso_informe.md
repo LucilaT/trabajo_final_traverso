@@ -365,4 +365,3 @@ El análisis de correlación se repite utilizando también sólo el grupo contro
 ## Conclusiones generales
 
 Los datos analizados muestran una tendencia de los insectos interferidos a tener menor fecundidad que los insectos control, lo que indicaría un rol del gen ITG-like en alguno de los procesos relacionados a la fecundidad en la especie estudiada. Para una confirmación estadística válida, sería necesario aumentar el número de individuos incluídos en el experimento. Un número mayor de individuos sería útil también para analizar si para el caso de este diseño experimental es necesario plantear cambios en la forma de calcular el índice de fecundidad.
-

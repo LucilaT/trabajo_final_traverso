@@ -5,6 +5,8 @@ from statsmodels.stats.power import TTestIndPower
 import numpy as np
 import seaborn as sns
 
+#carga de la tabla de datos
+
 path = "./tabla_final.tsv"
 tabla = pd.read_csv(path, sep="\t")
 
