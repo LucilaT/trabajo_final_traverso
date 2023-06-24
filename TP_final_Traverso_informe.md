@@ -17,19 +17,19 @@ El peso de la sangre ingerida se estimó pesando a la hembra antes e inmediatame
 
 A continuación, se muestran los histogramas de las variables estudiadas.
 
-<img src=./psa_histograma.png
+<img src=./peso_sin_alim_histograma.png
      width="50%" 
      height=auto />
 
-<img src=./psi_histograma.png
+<img src=./peso_sing_histograma.png
      width="50%" 
      height=auto />
 
-<img src=./hp_histograma.png
+<img src=./huevos_puestos_histograma.png
      width="50%" 
      height=auto />
 
-<img src=./if_histograma.png
+<img src=./IF_histograma.png
      width="50%" 
      height=auto />
 
@@ -347,11 +347,11 @@ Con el fin de evaluar la relación lineal entre el peso sin alimentar y los huev
 
 > El resultado del cálculo arrojó un coeficiente de correlación de 0.266 (con un valor de p = 0.487) para las variables _peso sin alimentar_ y _sangre ingerida_, mientras que para _huevos puestos_ y _sangre ingerida_ el coeficiente es de -0.166 (p value = 0.66). A continuación, se muestran los gráficos resultantes, en donde puede visualizarse claramente la falta de correlación:
 
-<img src=./psi_vs_psa_corr.png
+<img src=./peso_sing_vs_pesp_sin_alim_corr.png
      width="50%" 
      height=auto />
 
-<img src=./hp_vs_psi_corr.png
+<img src=./huevosp_vs_peso_si_corr.png
      width="50%" 
      height=auto />
 
