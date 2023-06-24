@@ -5,7 +5,7 @@ from statsmodels.stats.power import TTestIndPower
 import numpy as np
 import seaborn as sns
 
-path = "/home/lucila/Escritorio/Lucila/esp_bioinfo/estadistica/tabla_final.tsv"
+path = "./tabla_final.tsv"
 tabla = pd.read_csv(path, sep="\t")
 
 #nueva tabla para cada grupo, solo con variable "peso sin alimentar"
